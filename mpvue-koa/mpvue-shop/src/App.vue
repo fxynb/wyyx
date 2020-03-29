@@ -40,6 +40,17 @@ export default {
   padding: 200rpx 0;
   box-sizing: border-box;
 }
+page{
+  background: #f4f4f4;
+  height: 100%;
+}
+button{
+  background: none;
+  padding: 0;
+  font-weight: normal;
+  font-size: 100rpx;
+  box-sizing: content-box;
+}
 /* this rule will be remove */
 * {
   transition: width 2s;
